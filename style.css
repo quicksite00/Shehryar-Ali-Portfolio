@@ -325,7 +325,7 @@ nav {
     width: 4px;
     background: linear-gradient(to bottom, var(--accent), var(--accent-dark));
     transform: translateX(-50%);
-    z-index: 1;
+    z-index: 0;
 }
 
 .timeline-line:before {
